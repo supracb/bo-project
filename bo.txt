@@ -1,0 +1,1 @@
+this txt is created on branch "3rd_branch" and will be merged into branch "master"
