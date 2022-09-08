@@ -1,2 +1,2 @@
 this line is from master branch
-adding a line to check commit -a command
+checking git config --global user.name command
